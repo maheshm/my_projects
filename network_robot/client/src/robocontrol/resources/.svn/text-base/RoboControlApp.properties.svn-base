@@ -1,0 +1,11 @@
+# Application global resources
+
+Application.name = RoboControl
+Application.title = RoboControl Desktop Client
+Application.version = 1.0
+Application.vendor = Angad Singh
+Application.homepage = http://robocontrol.dev.java.net
+Application.description = RoboControl Desktop Client
+Application.vendorId = Angad
+Application.id = RoboControl
+Application.lookAndFeel = system

@@ -1,0 +1,15 @@
+jLabel1.text=RoboControl (Server)
+#NOI18N
+jLabel1.font=Tahoma 18-Bold-14
+jLabel2.text=Com Port:
+jLabel3.text=Number of Clients:
+#NOI18N
+jtaConsole.font=Tahoma 10 Plain
+jButton1.text=Start Video Server
+jLabel4.text=0
+jLabel5.text=RoboControl Server Port:
+jButton2.text=Start RoboControl Server
+jtRCPort.text=1080
+jLabel6.text=Capture Device:
+jLabel7.text=Video Server Port:
+jtVideoPort.text=42050

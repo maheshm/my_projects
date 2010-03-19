@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/robocontrol/!svn/ver/10/trunk/RoboControlDesktopClient
+END
+jmf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/robocontrol/!svn/ver/10/trunk/RoboControlDesktopClient/jmf.jar
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/robocontrol/!svn/ver/10/trunk/RoboControlDesktopClient/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/robocontrol/!svn/ver/10/trunk/RoboControlDesktopClient/build.xml
+END
